@@ -1,0 +1,54 @@
+# License Agreement for TimeTracker X
+
+## 1. General Terms
+This plugin ("TimeTracker X") is developed and distributed by Denys Vasylenko under the terms described in this agreement.
+
+By using this plugin, you agree to the terms of this license. If you do not agree, you must uninstall and stop using the plugin.
+
+## 2. Ownership and Rights
+The source code, documentation, and all related materials for this plugin are the property of Denys Vasylenko. All rights are reserved.
+
+You may not:
+- Modify, decompile, or reverse-engineer this plugin.
+- Distribute or resell the plugin without prior written consent from Denys Vasylenko.
+
+## 3. JetBrains Marketplace Licensing
+This plugin uses JetBrains Marketplace Licensing for subscription management. Users are required to adhere to the terms of the JetBrains [Marketplace User Agreement](https://plugins.jetbrains.com/legal/terms-of-use).
+
+## 4. Trial Period
+This plugin offers a 14-day trial period. After the trial period expires, a valid subscription is required to continue using the plugin.
+
+## 5. Liability Disclaimer
+This plugin is provided "as is" without any warranty of any kind. Denys Vasylenko is not responsible for any damages or losses resulting from the use of this plugin.
+
+## 6. Third-Party Libraries
+This plugin uses the following third-party libraries:
+
+1. Gson (https://github.com/google/gson)
+   Licensed under the Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0).
+
+## 7. Contact Information
+For inquiries, please contact info.timetracker.x@gmail.com.
+
+## 8. Privacy Policy
+TimeTracker X respects your privacy and ensures that your data is handled responsibly.
+
+1. **Local Data Storage**
+   This plugin allows users to input their credentials for connecting to third-party bug tracking systems via API. These credentials are stored locally on your machine and are not transmitted, shared, or sent to any external servers or third parties.
+
+2. **Data Security**
+   All sensitive data is stored securely within your IntelliJ IDEA configuration directory. The plugin does not collect, track, or monitor any of your personal or usage data.
+
+3. **User Responsibility**
+   You are responsible for ensuring the accuracy of the data entered into the plugin and for maintaining the security of your local machine to prevent unauthorized access.
+
+4. **No Telemetry or Data Transmission**
+   This plugin does not include telemetry or automatic data transmission features. Any data you input into the plugin remains strictly under your control.
+
+## 9. Third-Party Assets and Licenses
+This plugin uses an SVG icon obtained from [SVGrepo](https://www.svgrepo.com/)
+under the **CC0 (Public Domain) license**.
+This means the asset is free for commercial and personal use, with no attribution required.
+The icon has been modified for use within this plugin.
+
+Copyright © 2025 Denys Vasylenko. All rights reserved.
